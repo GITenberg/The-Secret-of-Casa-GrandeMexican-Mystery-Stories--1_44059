@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42558'
     url: http://www.gutenberg.org/2009/agents/42558
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44059#The-Secret-of-Casa-GrandeMexican-Mystery-Stories--1
 gutenberg_issued: '2013-10-31'
 gutenberg_type: Text
 identifiers:
