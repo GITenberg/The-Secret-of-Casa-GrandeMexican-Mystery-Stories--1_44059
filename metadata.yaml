@@ -1,0 +1,28 @@
+_repo: The-Secret-of-Casa-GrandeMexican-Mystery-Stories--1_44059
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44059-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Randolph, Helen
+    gutenberg_agent_id: '42558'
+    url: http://www.gutenberg.org/2009/agents/42558
+description: ''
+gutenberg_issued: '2013-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Americans -- Mexico -- Juvenile fiction'
+title: 'The Secret of Casa Grande
+
+  Mexican Mystery Stories #1'
+url: http://www.gutenberg.org/ebooks/44059
